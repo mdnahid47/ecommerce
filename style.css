@@ -57,6 +57,15 @@
 footer{
  text-align: center;
 }
-.navbar{
-    position: sticky;
+
+
+
+
+
+@media only screen
+and (min-width : 250px) {
+    .cat{
+      margin-bottom: 20px;
+    }
+    
 }
